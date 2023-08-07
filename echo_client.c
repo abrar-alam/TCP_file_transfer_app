@@ -144,7 +144,7 @@ int main(int argc, char **argv)
 	fprintf(fp, "%s", file_data_read_buffer);
 	fclose(fp);
 
-	free(file_data_read_buffer); 
+	free(file_data_read_buffer);
 
 	close(sd);
 	return (0);
