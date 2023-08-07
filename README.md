@@ -1,5 +1,5 @@
 # Objective
-A TCP based file file downloader has been implented based on client-server model. The server side can handle multiple concurrent connection requests from multiple clients requesting downloads of different files saved at the server side. 
+A TCP based file downloader has been implented based on client-server model. The server side can handle multiple concurrent connection requests from multiple clients requesting downloads of different files saved at the server side. 
 
 # Build and run instructions
 ## Server
